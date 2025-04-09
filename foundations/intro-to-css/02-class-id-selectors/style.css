@@ -1,0 +1,19 @@
+.paragraph {
+  background-color: lightpink;
+  font-family: "Verdana", sans-serif;
+  color: black;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#firstId {
+  color: blue;
+  font-size: 36px;
+}
+
+#secondId {
+  background-color: lightgreen;
+  font-weight: bold;
+}
